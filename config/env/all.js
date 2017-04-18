@@ -5,6 +5,6 @@ var keys = rootPath + '/keys.txt';
 module.exports = {
 	root: rootPath,
 	port: process.env.PORT || 3000,
-  //  db: process.env.MONGOHQ_URL
-	db: "mongodb://127.0.0.1/reactors"
+    db: process.env.MONGOHQ_URL
+
 };
