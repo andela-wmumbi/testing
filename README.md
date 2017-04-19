@@ -1,4 +1,7 @@
 [![Build Status](https://travis-ci.org/andela/reactors-cards-for-humanity.svg?branch=travisci-badge)](https://travis-ci.org/andela/reactors-cards-for-humanity)
+[![HoundCI](https://img.shields.io/badge/HoundCI-Integrated-blue.svg)](https://houndci.com/)
+
+[[!](https://img.shields.io/badge/HoundCI-Integrated-blue.svg?link=https://houndci.com/)]
 
 Cards for Humanity - [http://cfh.io](http://cfh.io)
 ===========
